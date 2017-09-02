@@ -12,9 +12,9 @@ for(i = 0; i < 99; i++){
 |alice|cindy|tony|
 
 ##list
--debbie
--edward
--lily
+- debbie
+- edward
+- lily
 
 [github](http://www.github.com)
 
