@@ -6,7 +6,7 @@ for(i = 0; i < 99; i++){
 }
 ```
 > life favors those bold.
->freedom is not letting you do whatever you wanna,but teaching you not to do the things you don't wanna do---Kant
+> freedom is not letting you do whatever you wanna,but teaching you not to do the things you don't wanna do---Kant
 
 |dog|cat|fish|
 |---|---|----|
