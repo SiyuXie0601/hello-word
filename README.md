@@ -26,5 +26,6 @@ for(i = 0; i < 99; i++){
 
 ![](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
->test_1_branch is the name of the branch.
+> test_1_branch is the name of the branch.
 > try to figure out relationship between commit and pull request and branch.
+> after making a pull request, try to commit again.
